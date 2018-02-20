@@ -51,11 +51,11 @@ In this lab, we used scripts to thoroughly test all the commands.
 
 ## Running Hammer Shell
 ```c++
-$ git clone  https://github.com/cs100/rshell-just-kneel.git
-$ cd rshell-just-kneel
+$ git clone https://github.com/jschopick/HammerShell.git
+$ cd HammerShell
 $ git checkout assn3
 $ make
-$ bin/rshell
+$ bin/HammerShell
 ```
 
 ## Known Bugs
