@@ -46,7 +46,7 @@ In this lab, we used scripts to thoroughly test all the commands.
   input_redirect_test.sh   #tests input redirection (<)
   output_redirect_test.sh  #tests single output redirection (>)
   append_redirect_test.sh  #tests double output redirection (>>)
-  pipe_test.sh			          #tests piping (|)
+  pipe_test.sh             #tests piping (|)
 ```
 
 ## Running Hammer Shell
