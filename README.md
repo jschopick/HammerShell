@@ -53,7 +53,6 @@ In this lab, we used scripts to thoroughly test all the commands.
 ```c++
 $ git clone https://github.com/jschopick/HammerShell.git
 $ cd HammerShell
-$ git checkout assn3
 $ make
 $ bin/HammerShell
 ```
